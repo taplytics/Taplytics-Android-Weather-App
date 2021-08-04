@@ -22,6 +22,10 @@ public class MainActivity extends AppCompatActivity {
 
         String locale = "Toronto";
         float temperature = 23.4f;
+        /**
+         * Implement this method in WeatherApi
+         */
+        // float temperature = WeatherApi.getWeather(locale);
         setWeatherText(locale, temperature);
     }
 

@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Taplytics Weather App"
 include ':app'
+include ':weatherapi'
