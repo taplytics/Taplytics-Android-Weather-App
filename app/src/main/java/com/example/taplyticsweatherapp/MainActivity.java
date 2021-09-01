@@ -6,6 +6,7 @@ import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.widget.TextView;
 
+
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
@@ -25,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         /**
          * Implement this method in WeatherApi
          */
-        // float temperature = WeatherApi.getWeather(locale);
+//         float temperature = WeatherApi.getWeather(locale);
         setWeatherText(locale, temperature);
     }
 
