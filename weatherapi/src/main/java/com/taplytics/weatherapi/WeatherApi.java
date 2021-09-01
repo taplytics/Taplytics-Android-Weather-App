@@ -21,4 +21,7 @@ public class WeatherApi {
      *
      * You may use any library you wish
      */
+    public void getWeather() {
+        
+    }
 }

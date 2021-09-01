@@ -1,6 +1,6 @@
 package com.taplytics.weatherapi
 
-object WeatherApi {
+object WeatherApiKT {
 
   /**
    * Implement WeatherApi getWeather methods here
